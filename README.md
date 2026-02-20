@@ -1,1 +1,1 @@
-# Jungyeon_study_PerfectGuide-master
+# study_machinelearning
